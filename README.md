@@ -1,4 +1,5 @@
 # Bistro Cupid 2 한국어 패치
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/dc8c8bb1-eccc-430b-87c0-2f6763a76f35" />
 
 PS2용 **Bistro Cupid 2 (Japan) (Tokubetsu-ban)** 전용 비공식 한국어 패치입니다.
 

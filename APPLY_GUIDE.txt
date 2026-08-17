@@ -1,0 +1,25 @@
+Bistro Cupid 2 (Japan) (Tokubetsu-ban) 한국어 패치 v1.0.0
+
+[필요한 원본]
+파일명: Bistro Cupid 2 (Japan) (Tokubetsu-ban).iso
+파일 크기: 2,296,709,120 bytes
+SHA-256: 89C7380F6BC1906FDCF9DBAE2A6C28A6194A9642A924C58A619B0588EC6EB5CF
+
+[패치 파일]
+파일명: Bistro_Cupid_2_Korean_v1.0.0.xdelta
+파일 크기: 2,481,299 bytes
+SHA-256: D213284500C743E4A1CA29AD8CE1711C973119658278B0201183F283B72F50D9
+
+[xdelta3 명령줄 적용 방법]
+xdelta3.exe -d -s "Bistro Cupid 2 (Japan) (Tokubetsu-ban).iso" "Bistro_Cupid_2_Korean_v1.0.0.xdelta" "Bistro Cupid 2 (Japan) (Tokubetsu-ban) [Korean].iso"
+
+[정상 적용된 결과]
+파일 크기: 2,296,709,120 bytes
+SHA-256: 51EB59F10CC7DB775BDAEC299D8B0D6B3F8B50AF480D934EB96D2B3271BB95D5
+
+[PCSX2 주의사항]
+패치 적용 전 만든 세이브스테이트를 불러오면 일부 도움말이 일본어로 표시될 수 있습니다.
+패치된 ISO를 새로 부팅하고 게임 내 세이브로 이어한 뒤 새 세이브스테이트를 만드세요.
+
+xdelta3 3.2.0으로 생성하고 원본 ISO에 역적용하여 결과 해시가 최종 한국어판과 일치하는 것을 검증했습니다.
+

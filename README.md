@@ -14,13 +14,13 @@ PS2용 **Bistro Cupid 2 (Japan) (Tokubetsu-ban)** 전용 비공식 한국어 패
 
 릴리스에서 다음 두 파일을 받습니다.
 
-- `Bistro Cupid 2 (Japan) (Tokubetsu-ban) [Korean].xdelta`
-- `Bistro Cupid 2 (Japan) (Tokubetsu-ban) [Korean] - 적용 방법.txt`
+- `Bistro_Cupid_2_Korean_v1.0.0.xdelta`
+- `APPLY_GUIDE.txt`
 
 xdelta3 명령줄 예시:
 
 ```text
-xdelta3.exe -d -s "Bistro Cupid 2 (Japan) (Tokubetsu-ban).iso" "Bistro Cupid 2 (Japan) (Tokubetsu-ban) [Korean].xdelta" "Bistro Cupid 2 (Japan) (Tokubetsu-ban) [Korean].iso"
+xdelta3.exe -d -s "Bistro Cupid 2 (Japan) (Tokubetsu-ban).iso" "Bistro_Cupid_2_Korean_v1.0.0.xdelta" "Bistro Cupid 2 (Japan) (Tokubetsu-ban) [Korean].iso"
 ```
 
 정상 적용 결과:
@@ -55,4 +55,3 @@ xdelta3.exe -d -s "Bistro Cupid 2 (Japan) (Tokubetsu-ban).iso" "Bistro Cupid 2 (
 ## 배포 안내
 
 비상업적 팬 번역 패치입니다. 원본 ISO나 게임 데이터 전체를 재배포하지 마세요.
-
